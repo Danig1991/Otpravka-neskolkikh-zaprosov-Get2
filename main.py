@@ -1,4 +1,4 @@
-from Chuck_Norris_jokes import *
+from chuck_norris_jokes import ChuckNorrisJokes
 
 
 def run(start_test):
